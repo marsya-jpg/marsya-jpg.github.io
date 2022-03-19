@@ -1,17 +1,18 @@
-## i simulated an orbital solar system to scale!
+## I simulated an orbital solar system to scale!
 
 **Project description:** Equipped with some knowledge on physics, I used actual coordinates of the planets and the Sun with the velocity and calculated the gravitational influence subjected to each celestial bodies. The final result gives out accurate orbital periods, semimajor/ semiminor lengths and I can input the output coordinates to get a simulation in VMD! This is what I learnt and used from this project.
 
 ### 1. Lots and lots of arrays and matrices
 
-Every planet has its own gravitational force, and a bunch of them would mean
+If you have two planets together, they would have the same gravitational force (although the "force" can look different on them). If you have a bunch of them, each would have their own gravitational pair with one another! You are able to keep track of it using a matrix.
+
 ```javascript
 if (isAwesome){
   return true
 }
 ```
 
-### 2. Assess assumptions on which statistical inference will be based
+### 2. Long term scale meant better integration time
 
 ```javascript
 if (isAwesome){
