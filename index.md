@@ -4,7 +4,7 @@
 
 ### Python Projects 
 
-[Solar System Simulation](/solar-system-simulation)
+[Solar System Simulation](/solar-system-simulation.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
