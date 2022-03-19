@@ -6,15 +6,19 @@
 
 If you have two planets together, they would have the same gravitational force (although the "force" can look different on them). If you have a bunch of them, each would have their own gravitational pair with one another! You are able to keep track of it using a matrix.
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+```python
+for i in range(N):
+        for j in range(N):
+            #Gets the force numerator
+            if i!=j:      
+                force[i,j] = -G*p_list[i].mass*p_list[j].mass/(sep[i,j])**3 * sep_vector[i,j]
+                
+            else:
+                continue```
 
 ### 2. Long term scale meant better integration time
 
-```javascript
+```python
 if (isAwesome){
   return true
 }
