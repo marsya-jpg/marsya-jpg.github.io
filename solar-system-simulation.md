@@ -14,7 +14,9 @@ for i in range(N):
                 force[i,j] = -G*p_list[i].mass*p_list[j].mass/(sep[i,j])**3 * sep_vector[i,j]
                 
             else:
-                continue```
+                continue
+                
+```
 
 ### 2. Long term scale meant better integration time
 
