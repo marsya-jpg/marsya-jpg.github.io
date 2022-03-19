@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Python Projects 
 
-[Project 1 Title](/sample_page)
+[Solar System Simulation](/solar-system-simulation)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### Data Analyst
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
