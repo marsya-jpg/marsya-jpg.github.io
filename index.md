@@ -4,8 +4,7 @@
 
 ### Python Projects 
 
-[Solar System Simulation](/solar-system-simulation.md)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Solar System Simulation](/solar-system-simulation.md) :ringed_planet:	
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
