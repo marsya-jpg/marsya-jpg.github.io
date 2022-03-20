@@ -3,8 +3,6 @@ logo: "/images/profile_pic.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Hi hello so nice to see you here 
   <br><br>
-  tralallala 
-  <br><br>
   <a href="https://www.linkedin.com/in/marsya-irdina/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
